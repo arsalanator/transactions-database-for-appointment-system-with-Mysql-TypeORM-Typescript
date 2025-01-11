@@ -1,2 +1,2 @@
-# appointment-system
-This is an application that allows users to create appointments and doctors to create available appointment slots
+# cache-database-for-appointment-system-with-Redis-IOredis-Typescript
+This is cache database for "appointment system" being written with ioredis using Typescript
